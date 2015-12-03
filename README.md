@@ -1,2 +1,2 @@
 # DazzaGreenwood
-For DazzaGreenwood.com updated page
+For DazzaGreenwood.com updated html page.
