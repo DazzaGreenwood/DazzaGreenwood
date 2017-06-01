@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/dazza
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dazzagreenwood.com
+  * I am dazza (https://keybase.io/dazza) on keybase.
+  * I have a public key with fingerprint 689C 3A94 465C 81B0 9A58  0F7A 9682 10A8 2FF3 3E21
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010115e155be90569cd82101de60423937f6baec9a03dca0add913ad3bf5436557830a",
+            "fingerprint": "689c3a94465c81b09a580f7a968210a82ff33e21",
+            "host": "keybase.io",
+            "key_id": "968210a82ff33e21",
+            "kid": "010115e155be90569cd82101de60423937f6baec9a03dca0add913ad3bf5436557830a",
+            "uid": "4c6cd457a607dddf620515a752c86d19",
+            "username": "dazza"
+        },
+        "service": {
+            "hostname": "dazzagreenwood.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1496300901,
+    "expire_in": 157680000,
+    "prev": "2f3dc7dee8f358dc789815e381c3c9aa526414b34039d7221ab3267a73acf6e4",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.71
+Comment: https://keybase.io/crypto
+
+yMNBAnicrVJtUFRVGL6gIvJNTR/qIHGV9c8K995zP9dCEi0mooxmhC2b9dx7z112
+gL3r7vIla04KGn7MEM4wipQEijtGkV+BHzjCBFasSSKC6CIagWIzRQxhiNa9TM30
+o5+dP+ec932e5zzvM+fr8DlYSEDVtihv4kRSXEBX24F8zJzYikpwUZWLcVMJnoNm
+N5QrI5fbkmOTcRNOkARJMohkGBEJBMMKksxTWk1GLEFTQACcwooQSQIkgCxBAsqy
+QAIoA1FhaMAyDMcDAuJGXLHZrcjpcNrsbk2W5QUJQIGmWUbiSZEQIMMTCgcFVleH
+PKUoACCK1IjZqktnaOZE6EIJNlWraRfLrL3/wP/PvvNn5WiJlWSa4SBLcLIsKyxF
+MCQDOYaSeFYmBR3oQk47zEMaWoabN0N8ixHXSgU2Cemp6mP8u211ImQvVFU5QVLz
+NLrDqbpVSc3V+tlut8Ok093FDh1fiETL30oW0WaXtSQ1QgFyumyqHTeRGlJy23Rp
+khZYQBACQRpxVOSwOZHFpiMYjuUJbenPoAJNklK0qTkZIV4BDK8deYHX4gI8KQEt
+E8hQLE3SIqAJIMgcRZFQBBTLQQ5ASWERjeuzbbKruAloNqFVk3TZrHbozncifEt7
+24a5WEAIFjQvUP9hWMiCqH/+3cbbkY+fzzIZkyr2maeIoUHT/kvAgz17LTtuQ1d6
+xdOZ36OanIvjEftuloZbfOnjwld055z4xOslgw0zzaV7b5clrxk/0C4ZvkzvHi0K
+D/786LmI8SOXa+8/7AuaifGs/vByh98/8Whp8PnqBcFVdg8AUctSge+e4/TMkyPP
+BLbGmxprg+8ORUYfCh4ZG6s+i637Y5sZveAfyD0d8p6cOX9sO3ln56+fRjBXi9Nj
+Q1e/Oi8y74dVWxdN1J9a0rRytH/n2l7QtiS0uSrl+uG5qZ+tT+4tbZjyLCpacWjy
+ykTs/Y8edpY0L5/8WF6ZdrJ8ubFm+4qmn7qVpp8Txfro7Le8x7c+Zb05dO6dqqvH
+Lubv2gVSsLCEttZO88gH3PD8uqndqHCq3QjEoXvNXsuZGgS+PVhmeJLctbCiulx9
+wBwckA1v3zCfiSno32hoKf+mpbP22OJwnvzu1lBqzO/5Vqkn7Yqv7LWMSZPJv74r
+NM1VuMqb1TPY1gB3W1POZyUFZb5iTs7pTQ+MDnvR56s4+vL0/te/mFyzx+f3DItJ
+4cv6OvZaxe4bWEbFwIW4sI6MR1ig+c3KB+ilupGWvvebT/z5i+e3465PvKOUoebx
+cH3Bu5N18Snc3bodO8Ya+1tjq/yXTkS3VhoP/7jQNI2t81qSF4eQeSJbuXTTyTeu
+XTj1XOOts2sN01E98E7DX3tCxNM=
+=j2GX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dazza
+
+==================================================================
